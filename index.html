@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Tailwind Background Example</title>
+
+    <style>
+        body {
+            background-image: url('https://img.freepik.com/premium-vector/vector-mountain-illustration-game-background_303920-22.jpg');
+            background-size: cover;
+            background-repeat: no-repeat;
+            background-position: center;
+        }
+    </style>
+</head>
+
+<body class="min-h-screen  flex items-center justify-center text-white">
+    <div class="text-4xl w-200 h-auto font-bold bg-black bg-opacity-50 p-5 rounded-2xl">
+        <h1>Welcome To The Quiz Game</h1>
+        <p id="Question" class="mt-5 text-center"></p>
+        <p id="percentage" class="mt-5 text-center"></p>
+        <div id="radio" class="  flex flex-col gap-4 mt-5 ">
+            <div class="flex items-center gap-4 h-15 ">
+                <input type="radio" class="option h-4 w-10 cursor-pointer hidden" name="fav_language" value=""><label
+                    class=" label text-2xl items-center "></label>
+            </div>
+            <div class="flex items-center gap-4 h-15 ">
+                <input type="radio" class="option h-4 w-10 cursor-pointer hidden" name="fav_language" value=""><label
+                    class=" label text-2xl items-center "></label>
+            </div>
+            <div class="flex items-center gap-4 h-15 ">
+                <input type="radio" class="option h-4 w-10 cursor-pointer hidden" name="fav_language" value=""><label
+                    class=" label text-2xl items-center "></label>
+            </div>
+            <div class="flex items-center gap-4 h-15 ">
+                <input type="radio" class="option h-4 w-10 cursor-pointer hidden" name="fav_language" value=""><label
+                    class=" label text-2xl items-center "></label>
+            </div>
+        </div>
+        <button id="nextquestion" onclick="Qizequestion()"
+            class=" text-3xl p-3 border-2  border-white rounded-2xl mt-10 justify-center items-center m-auto w-full">
+            Start Now
+        </button>
+
+    </div>
+</body>
+<script src="https://cdn.tailwindcss.com"></script>
+<script src="./script.js"></script>
+
+</html>

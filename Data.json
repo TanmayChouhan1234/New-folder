@@ -1,0 +1,102 @@
+[
+    {
+        "Question": "Who is prime minster of india",
+        "Answer": "Narendra Modi",
+        "Option": [
+            "Narendra Modi",
+            "Sir Keir Starmer",
+            "Sebastien Lecornu",
+            "Mikhail Mishustin"
+        ]
+    },
+    {
+        "Question": "What is a capital of india",
+        "Answer": "New Delhi",
+        "Option": [
+            "New Delhi",
+            "Maharashtra ",
+            "Lucknow",
+            "Patna"
+        ]
+    },
+    {
+        "Question": "what is a largest animal in our world",
+        "Answer": "blue whale",
+        "Option": [
+            "blue whale",
+            "Tiger",
+            "Lion",
+            "Kit"
+        ]
+    },
+    {
+        "Question": "What is a best language in programing",
+        "Answer": "Python",
+        "Option": [
+            "python",
+            "Java",
+            "Node Js",
+            "ASP.Net"
+        ]
+    },
+    {
+        "Question": "What is a capital of france",
+        "Answer": "Paris",
+        "Option": [
+            "Paris",
+            "Canberra",
+            "Ottawa",
+            "Brasillia"
+        ]
+    },
+    {
+        "Question": "Which is a largest country in the world",
+        "Answer": "Russia",
+        "Option": [
+            "Russia",
+            "China",
+            "America",
+            "India"
+        ]
+    },
+    {
+        "Question": "which is the best online shoping platfrom",
+        "Answer": "Amazon",
+        "Option": [
+            "Amazon",
+            "Flipkart",
+            "Myntra",
+            "Shopsy"
+        ]
+    },
+    {
+        "Question": "Who is the prime minster of America",
+        "Answer": "Joe Biden",
+        "Option": [
+            "Joe Biden",
+            "Narendra Modi",
+            "Sir Keir Starmer",
+            "Mikhail Mishustin"
+        ]
+    },
+    {
+        "Question": "What is the full form of ATM",
+        "Answer": "Automated Teller Machine",
+        "Option": [
+            "Automated Teller Machine",
+            "Bank of Baroda",
+            "Unified Payments Interface",
+            "Portable Document Format"
+        ]
+    },
+    {
+        "Question": "What is the full from  of PDF",
+        "Answer": "Portable Document Format",
+        "Option": [
+            "Portable Document Format",
+            "Unifrom resource locator",
+            "eXtensible Markup Language",
+            "Scalable Vector Graphics"
+        ]
+    }
+]
