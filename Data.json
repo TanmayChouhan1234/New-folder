@@ -21,9 +21,9 @@
     },
     {
         "Question": "what is a largest animal in our world",
-        "Answer": "blue whale",
+        "Answer": "Blue whale",
         "Option": [
-            "blue whale",
+            "Blue whale",
             "Tiger",
             "Lion",
             "Kit"
@@ -31,7 +31,7 @@
     },
     {
         "Question": "What is a best language in programing",
-        "Answer": "Python",
+        "Answer": "Java",
         "Option": [
             "python",
             "Java",
@@ -71,9 +71,9 @@
     },
     {
         "Question": "Who is the prime minster of America",
-        "Answer": "Joe Biden",
+        "Answer": "Donald Trump",
         "Option": [
-            "Joe Biden",
+            "Donald Trump",
             "Narendra Modi",
             "Sir Keir Starmer",
             "Mikhail Mishustin"
