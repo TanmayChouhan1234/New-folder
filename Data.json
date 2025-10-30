@@ -83,8 +83,8 @@
         "Question": "What is the full form of ATM",
         "Answer": "Automated Teller Machine",
         "Option": [
-            "Automated Teller Machine",
             "Bank of Baroda",
+            "Automated Teller Machine",
             "Unified Payments Interface",
             "Portable Document Format"
         ]
